@@ -1,14 +1,14 @@
 # Github required configuration
 # -------------------
-# lsi: false
-# safe: true
-# incremental: false
-# highlighter: rogue
-# gist:
-#   noscript: false
-# kramdown:
-#   math_engine: mathjax
-#   syntax_highlighter: rouge
+lsi: false
+safe: true
+incremental: false
+highlighter: rogue
+gist:
+  noscript: false
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
 # -------------------
 
 title: Kevin Ingles's Homepage
