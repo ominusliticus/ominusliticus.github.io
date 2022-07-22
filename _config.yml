@@ -1,3 +1,16 @@
+# Github required configuration
+# -------------------
+# lsi: false
+# safe: true
+# incremental: false
+# highlighter: rogue
+# gist:
+#   noscript: false
+# kramdown:
+#   math_engine: mathjax
+#   syntax_highlighter: rouge
+# -------------------
+
 title: Kevin Ingles's Homepage
 author:
   name: Kevin Ingles
@@ -28,3 +41,11 @@ header_pages:
 # Build settings
 theme: minima
 
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+sass:
+  load_paths:
+    - _sass
+    - bower_components/bootstrap-sass/assets/stylesheets
