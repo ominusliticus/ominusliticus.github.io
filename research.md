@@ -12,14 +12,14 @@ However, my interest are broader than understanding hadron structure.
 ### Exotic Particles
 
 In the early 2000's, evidence of the first hadron containing more than three quarks was found.
-Due its unknown nature and measured mass, it became known as the $X(3872)$.
-Since them many more $XYZ$ states and other tetra- and pentaquark states have been discovered.
-However, the $X(3872)$, the oldest with the greatest amount of data collect, continues to evade
+Due its unknown nature and measured mass, it became known as the $$X(3872)$$.
+Since them many more $$XYZ$$ states and other tetra- and pentaquark states have been discovered.
+However, the $$X(3872)$$, the oldest with the greatest amount of data collect, continues to evade
 a theoretical consensus on its hadronic structure.
-I fall into the group that believe that the $X$ is a remarkable example of a loosely-bound
+I fall into the group that believe that the $$X$$ is a remarkable example of a loosely-bound
 charm-meson molecule,
 The past 4 years have been dedicated to making prediction for experiments to confirm,
-under this assumption the assumption that the $X$ is a loosely-bound charm-meson molecule.
+under this assumption the assumption that the $$X$$ is a loosely-bound charm-meson molecule.
 
 ### Relativistic Hydrodynamics and Quark-Gluon Plasma
 

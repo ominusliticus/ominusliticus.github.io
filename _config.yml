@@ -35,8 +35,8 @@ minima:
 header_pages:
   - cv.md
   - research.md 
-  - recreational.md
   - outreach.md
+  - recreational.md
 
 # Build settings
 theme: minima
