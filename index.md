@@ -25,7 +25,7 @@ layout: home
   these topological modes evolve and behave in various energy density regimes.
 
   My hope is to to become a tenured professor at a R2 university or liberal arts college,
-  as my passion is largely in mentoring aspiring scientists.  
+  as my passion is largely in mentoring aspiring scientists.
   Mentoring and facilitating mentorship programs has been my second largest preoccupation
   during graduation school.
   This has primarily been through our organization 
