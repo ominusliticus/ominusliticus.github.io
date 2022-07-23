@@ -21,7 +21,7 @@ layout: home
   Chromodynamics (QCD).
   I have studied topics such as quark-gluon plasmas and hadron spectroscopy.
   QCD is a very rich theory due to its non-Abelian nature.
-  I am most interest in non-perturbative phenonema such as instantons and how
+  I am most interest in non-perturbative phenomena such as instantons and how
   these topological modes evolve and behave in various energy density regimes.
 
   My hope is to to become a tenured professor at a R2 university or liberal arts college,
@@ -34,7 +34,7 @@ layout: home
   and will continue advocate for such initiatives until we see a paradigmatic shift
   in what individuals think a physicists look like.
   I also have great interest in understanding and developing leadership structures
-  student driven organization which ensure their persistence past the inaugral cohort.
+  student driven organization which ensure their persistence past the inaugural cohort.
   </div>
   <div style="text-align: center;" markdown="1">
   ![me](./assets/headshot.JPG){: width="220px"}
