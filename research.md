@@ -3,7 +3,7 @@ layout: page
 title: Research
 permalink: /research/
 ---
-<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+{% include mathjax.html %}
 
 ## High Energy Phenomenology (Graduate Research)
 
