@@ -52,7 +52,7 @@ Phys. Rev. D **100**, no.9, 094024 (2019)
 - National GEM Consortium, Associate Fellow
 - Outstanding Physics Major Award, Physics Department, University of South Alabama
 - Mortar Board Honors Society
-- Sima Pi Sigma ($$\Sigma \Pi \Sigma$$) Honors Society
+- Sigma Pi Sigma ($$\Sigma \Pi \Sigma$$) Honors Society
 - President's List and Dean's List
 - SIST Internship, Fermi National Accelerator Laboratory
 - 2016-2018:NASA Space Grant, University of Alabama, Huntsville
