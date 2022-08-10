@@ -6,7 +6,7 @@ permalink: /cv/
 {% include mathjax.html %}
 
 ## Education
-- Ph.D. in Physics, The Ohio State University, 2023
+- Ph.D. in Physics, The Ohio State University, est. 2023
 - M.S. in Physics, The Ohio State University, 2021
 - B.S. in Physics, University of South Alabama, 2018
   - Thesis: "A Method for Determining High Energy Muon Momenta based on Electromagnetic
@@ -40,10 +40,10 @@ Phys. Rev. D **100**, no.7, 074028 (2019)
 Phys. Rev. D **100**, no.9, 094024 (2019)
 
 ## Awards
-- 2018-2023: Dean's Distinguished Graduate Enrichment Fellowship, The Ohio State University ($$99,000)
-- 2016: Summer Undergraduate Research Fellowship, University Committee on Undergraduate Research, University of South Alabama ($$2,500)
-- 2015-2018: Department pf Physics Faculty Honors Fellowship, University of South Alabama ($$57,408)
-- 2014-2016: Alabama Louis Stokes Alliance for Minority Participation Fellowship, University of Alabama, NSF ($$9,000)
+- 2018-2023: Dean's Distinguished Graduate Enrichment Fellowship, The Ohio State University ($99,000)
+- 2016: Summer Undergraduate Research Fellowship, University Committee on Undergraduate Research, University of South Alabama ($2,500)
+- 2015-2018: Department pf Physics Faculty Honors Fellowship, University of South Alabama ($57,408)
+- 2014-2016: Alabama Louis Stokes Alliance for Minority Participation Fellowship, University of Alabama, NSF ($9,000)
 
 
 ## Honors
