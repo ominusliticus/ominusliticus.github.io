@@ -42,16 +42,15 @@ permalink: /research/
 </div>
 
 <div style="display: grid; grid-template-columns: 1fr 1fr;">
-  <div style="text-align: center;" markdown="1">
+  <div style="text-align: just;" markdown="1">
   ![triangle](./assets/Tcc-triangle-diagram.png){: width="250px"}
 
   Diagram for production of $$T_{cc}^+\pi$$. 
   The triangle singularity arises when the three lines that form a triangle
   are on-shell simultaneously.
   </div>
-  <div style="text-align: center;" markdown="1">
-  <object data="./assets/t-channel.pdf" type="application/pdf" width="100%">
-  </object>
+  <div style="text-align: just;" markdown="1">
+  <embed data="./assets/t-channel.pdf" type="application/pdf">
   Diagram for the process $$\pi D^\ast \to \pi D^\ast$$.
   The $$t$$-channel singularity arises when the intermediate $$D$$ meson is on shell.
   </div>
