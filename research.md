@@ -50,7 +50,8 @@ permalink: /research/
   are on-shell simultaneously.
   </div>
   <div style="text-align: just;" markdown="1">
-  <embed data="./assets/t-channel.pdf" type="application/pdf">
+  ![t-channel](./assets/t-channel.png){: width="250px"}
+
   Diagram for the process $$\pi D^\ast \to \pi D^\ast$$.
   The $$t$$-channel singularity arises when the intermediate $$D$$ meson is on shell.
   </div>
