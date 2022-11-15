@@ -3,10 +3,9 @@ layout: page
 title: Research
 permalink: /research/
 ---
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.11.1/dist/katex.min.css" integrity="sha384-zB1R0rpPzHqg7Kpt0Aljp8JPLqbXI3bhnPWROx27a9N0Ll6ZP/+DiW/UqRcLbRjq" crossorigin="anonymous">
+<% include mathjax.html %}
 
 <div sytle="text-align: just;" markdown="1">
-  {% katexmm %}
   Of fundamental interest to me are the phenomena described by Quantum Chromodynamics (QCD).
   I am particularly fascinated by emergent phenomena such as quark confinement, collective flow
   and superfluidity.
@@ -22,60 +21,55 @@ permalink: /research/
   
   ## Past Research Experience
   
-  My research in particle theory has focused on the exotic hadrons $X(3872)$ and $T_{cc}^+(3875)$.
+  My research in particle theory has focused on the exotic hadrons $$X(3872)$$ and $$T_{cc}^+(3875)$$.
   My collaborators and I
   were the first to predict the narrow peak,
-  just above the $D^\ast D^\ast$
+  just above the $$D^\ast D^\ast$$
   thresholds, in the production of 
-  [$X$](https://doi.org/10.1103/PhysRevD.100.094006) or
-  [$T_{cc}^+$](https://doi.org/10.1103/PhysRevD.106.034033)
+  [$$X$$](https://doi.org/10.1103/PhysRevD.100.094006) or
+  [$$T_{cc}^+$$](https://doi.org/10.1103/PhysRevD.106.034033)
   and a pion.
   This narrow peak is a particularly exquisite example of a triangle singularity, a type of
   dynamical singularity first discussed by Landau 1959,
   that should be observable in 
-  [$e^+e^-$ collision](https://doi.org/10.1103/PhysRevD.100.031501),
-  [$pp$ collisions](https://doi.org/10.1103/PhysRevD.100.094006) and
-  [$B$ meson decays](https://doi.org/10.1103/PhysRevD.100.074028).
+  [$$e^+e^-$$ collision](https://doi.org/10.1103/PhysRevD.100.031501),
+  [$$pp$$ collisions](https://doi.org/10.1103/PhysRevD.100.094006) and
+  [$$B$$ meson decays](https://doi.org/10.1103/PhysRevD.100.074028).
   The observation of this peak would give conclusive evidence for
   identifying these exotic hadron as loosely bound charm-meson molecules.
   Our work on triangle singularities has been very fruitful, resulting in six out of my eight publications in
   Physical Review D.
-  {% katexmm %}
 </div>
 
 <div style="display: grid; grid-template-columns: 1fr 1fr;">
   <div style="text-align: center;" markdown="1">
   ![triangle](./assets/Tcc-triangle-diagram.png){: width="220px"}
   {% katexmm %}
-  Diagram for production of $T_{cc}^+\pi$. 
+  Diagram for production of $$T_{cc}^+\pi$$. 
   The triangle singularity arises when the three lines that form a triangle
   are on-shell simultaneously.
-  {% katexmm %}
   </div>
   <div style="text-align: center;" markdown="1">
   ![t-channel](./assets/t-chnnel.pdf){: width="220px"}
-  {% katexmm %}
-  Diagram for the process $\pi D^\ast \to \pi D^\ast$.
-  The $t$-channel singularity arises when the intermediate $D$ meson is on shell.
-  {% katexmm %}
+  Diagram for the process $$\pi D^\ast \to \pi D^\ast$$.
+  The $$t$$-channel singularity arises when the intermediate $$D$$ meson is on shell.
   </div>
 </div>
 
 <div style="text-align: just;" markdown="1">
-  {% katexmm %}
   An ongoing project is to understand the effects of pion interactions on charm mesons and
   loosely bound charm-meson molecules in heavy-ion collisions.
   The hope of this study is to account for the observed order-of-magnitude increase in the
-  $X(3872)$-to-$\psi(2S)$ ratio in
-  Pb-Pb relative to $pp$ collisions.
+  $$X(3872)$$-to-$$\psi(2S)$$ ratio in
+  Pb-Pb relative to $$pp$$ collisions.
   We were the first 
-  to recognize the importance of the $t$-channel singularity in charm-meson reaction
+  to recognize the importance of the $$t$$-channel singularity in charm-meson reaction
   after the kinetic freeze-out of a hadron gas produced in a heavy-ion collision.
   The singularity 
   [significantly changes the predicted ratio](https://arxiv.org/pdf/2209.04972)
   of observed spin-0 charm mesons, from
   the conventional predictions which assumes that there are no interactions after kinetic freeze-out.
-  The details of this project will comprise the contents of my Ph.~D. dissertation.
+  The details of this project will comprise the contents of my Ph. D. dissertation.
   
   My research in nuclear theory has primarily focused on addressing the poorly conditioned
   inverse problem for determining the hydrodynamic parameters from heavy-ion collider observables.
@@ -115,5 +109,4 @@ permalink: /research/
   design.
   My goal is to have VizQGP seemlessly interface with existing libraries such as
   [Geant4](https://geant4.web.cern.ch/) and [art](https://art.fnal.gov/).
-  {% katexmm %}
 </div>
