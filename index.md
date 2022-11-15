@@ -13,28 +13,29 @@ layout: home
 <div style="display: grid; grid-template-columns: 2fr 1fr;">
   <div sytle="text-align: just;" markdown="1">
   Hi!
-  My name is Kevin Ingles, I am a theoretical physicist studying high energy
-  phenomenology at The Ohio State University.
-  My interest in theoretical physics was sparked by the fictional character, Sheldon Cooper.
+  My name is Kevin Ingles, I am a theoretical physicist studying theoretical
+  nuclear and particle at The Ohio State University.
   In graduate school I have primarily been concerned with the phenomenology of Quantum
   Chromodynamics (QCD).
-  I have studied topics such as quark-gluon plasmas and hadron spectroscopy.
-  QCD is a very rich theory due to its non-Abelian nature.
+  I have studied topics such as quark-gluon plasmas, hadron spectroscopy and some axion 
+  phenomenology.
+  QCD is a very rich theory due to its non-Abelian nature, and lends itself to a wealth
+  of theoretical methods to study it such as effective field theories, lattice calculations,
+  and the AdS/CFT correspondence.
+  Some open questions that I am interested in are: the structure of hadrons, the evolution
+  of spin a relativistic plasma, the QCD equation of state, and emergence in QCD in general.
 
-  My hope is to to become a tenured professor at a R2 university or liberal arts college,
+  My hope is to to become a tenured professor at a HBCU, R2 university, or liberal arts college,
   as my passion is largely in mentoring aspiring scientists.
   Mentoring and facilitating mentorship programs has been my second largest preoccupation
   during graduation school.
   This has primarily been through our organization 
   [Polaris](https://physics.osu.edu/student-organizations-0/polaris-0).
-  I take outreach and Diversity, Equity, Inclusion and Access (DEIA) work very seriously,
-  and will continue advocating for such initiatives until we see a paradigmatic shift
-  in what individuals think a physicist looks like.
+  I take outreach and Diversity, Equity, Inclusion and Access (IDEA) work very seriously,
+  and will continue advocating for such initiatives wherever I go.
   I also have great interest in understanding and developing leadership structures and
-  student driven organization with a focus on build organizations the last.
-  Self-driven organization, such as those dedicated to cultural change, often suffer
-  a short life-time as it is only the inaugral cohort, which has the institutional 
-  knowledge to accomplish their goals.
+  student-driven organization with a focus on building organizations the last, and developing
+  more equitable teaching practices in classrooms.
   </div>
   <div style="text-align: center;" markdown="1">
   ![me](./assets/headshot.JPG){: width="220px"}
