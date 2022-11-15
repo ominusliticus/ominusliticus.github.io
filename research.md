@@ -20,8 +20,7 @@ permalink: /research/
   and topological fluid dynamics.
   
   Past Research Experience
-  ------
-  
+  ----
   My research in particle theory has focused on the exotic hadrons $$X(3872)$$ and $$T_{cc}^+(3875)$$.
   My collaborators and I
   were the first to predict the narrow peak,
