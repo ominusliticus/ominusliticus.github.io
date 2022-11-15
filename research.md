@@ -44,7 +44,6 @@ permalink: /research/
 <div style="display: grid; grid-template-columns: 1fr 1fr;">
   <div style="text-align: center;" markdown="1">
   ![triangle](./assets/Tcc-triangle-diagram.png){: width="220px"}
-  {% katexmm %}
   Diagram for production of $$T_{cc}^+\pi$$. 
   The triangle singularity arises when the three lines that form a triangle
   are on-shell simultaneously.
