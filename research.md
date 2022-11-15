@@ -3,9 +3,10 @@ layout: page
 title: Research
 permalink: /research/
 ---
-{% include mathjax.html %}
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.11.1/dist/katex.min.css" integrity="sha384-zB1R0rpPzHqg7Kpt0Aljp8JPLqbXI3bhnPWROx27a9N0Ll6ZP/+DiW/UqRcLbRjq" crossorigin="anonymous">
 
 <div sytle="text-align: just;" markdown="1">
+  {% katexmm %}
   Of fundamental interest to me are the phenomena described by Quantum Chromodynamics (QCD).
   I am particularly fascinated by emergent phenomena such as quark confinement, collective flow
   and superfluidity.
@@ -39,23 +40,29 @@ permalink: /research/
   identifying these exotic hadron as loosely bound charm-meson molecules.
   Our work on triangle singularities has been very fruitful, resulting in six out of my eight publications in
   Physical Review D.
+  {% katexmm %}
 </div>
 
 <div style="display: grid; grid-template-columns: 1fr 1fr;">
   <div style="text-align: center;" markdown="1">
-  ![me](./assets/Tcc-triangle-diagram.pdf){: width="220px"}
+  ![triangle](./assets/Tcc-triangle-diagram.png){: width="220px"}
+  {% katexmm %}
   Diagram for production of $T_{cc}^+\pi$. 
   The triangle singularity arises when the three lines that form a triangle
   are on-shell simultaneously.
+  {% katexmm %}
   </div>
   <div style="text-align: center;" markdown="1">
-  ![me](./assets/t-chnnel.pdf){: width="220px"}
+  ![t-channel](./assets/t-chnnel.pdf){: width="220px"}
+  {% katexmm %}
   Diagram for the process $\pi D^\ast \to \pi D^\ast$.
   The $t$-channel singularity arises when the intermediate $D$ meson is on shell.
+  {% katexmm %}
   </div>
 </div>
 
-<div style="text-align: center;" markdown="1">
+<div style="text-align: just;" markdown="1">
+  {% katexmm %}
   An ongoing project is to understand the effects of pion interactions on charm mesons and
   loosely bound charm-meson molecules in heavy-ion collisions.
   The hope of this study is to account for the observed order-of-magnitude increase in the
@@ -108,4 +115,5 @@ permalink: /research/
   design.
   My goal is to have VizQGP seemlessly interface with existing libraries such as
   [Geant4](https://geant4.web.cern.ch/) and [art](https://art.fnal.gov/).
+  {% katexmm %}
 </div>
