@@ -19,7 +19,8 @@ permalink: /research/
   The two frameworks I will use to address these topics are relativistic magnetohydrodynamics
   and topological fluid dynamics.
   
-  ## Past Research Experience ##
+  Past Research Experience
+  ------
   
   My research in particle theory has focused on the exotic hadrons $$X(3872)$$ and $$T_{cc}^+(3875)$$.
   My collaborators and I
