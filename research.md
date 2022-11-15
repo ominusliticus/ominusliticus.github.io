@@ -85,23 +85,17 @@ permalink: /research/
   errors on the inferred parameters,
   which in turn contributes to the efforts to determine emergent properties of QCD matter.
   
-  
-  My research interests are quite broad, but confined to the world of field theories.
-  At my core, I wish to understand all the rich phenomena offered by Quantum
-  Chromodynamics (QCD), and by proxy, non-Abelian gauge theories.
-  I am interested in hadron spectroscopy, in particular understanding the structure of exotic hadrons, but also hadrons in general. 
-  My research has focused on the charmed exotic tetraquarks that can be explained as
-  loosely-bound charm-meson molecules, as they form a unique system that lends itself
-  well to analytic calculation.
-  I am interested in relativistic hydrodynamics and quark-gluon plasmas.
-  I also want to understand the cold, dense nuclear matter.
-  I want to understand the non-trivial topological nature of QCD, and the roles
-  that anomalies play in nature.
-  I prefer first principles calculations over model building, for this reason I hope
-  to understand and execute lattice field theoretic calculations.
-  
 ## Future Research
   
+  Projects that I want to work on moving forward include:
+* Using Born-Oppenheimer theory to predict exotic hadronic bound states
+* Study production of exotic hadrons in heavy-ion collisions
+* Develop a magnetohydrodynamic description of quark-gluon plasmas
+* Understand the evolution of spin in an expanding quark-gluon plasma
+* Determine the equation of state and phase diagram for QCD
+* Understand how magnetars generate their strong magnetic fields
+* Contribute to the development of non-perturbative methods to study QCD
+
   Lastly, as a continuing side project, I am developing a high-enrgy experiment
   visualization software, that would allow users to watch interactive, 3D renderings
   of their simulations.
