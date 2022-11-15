@@ -3,7 +3,7 @@ layout: page
 title: Research
 permalink: /research/
 ---
-<% include mathjax.html %}
+{% include mathjax.html %}
 
 <div sytle="text-align: just;" markdown="1">
   Of fundamental interest to me are the phenomena described by Quantum Chromodynamics (QCD).
