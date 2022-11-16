@@ -88,7 +88,7 @@ permalink: /research/
 ## Future Research
   
   Projects that I want to work on moving forward include:
-* Using Born-Oppenheimer theory to predict exotic hadronic bound states
+* Using Born-Oppenheimer theory to predict/postdict exotic hadronic bound states
 * Study production of exotic hadrons in heavy-ion collisions
 * Develop a magnetohydrodynamic description of quark-gluon plasmas
 * Understand the evolution of spin in an expanding quark-gluon plasma
