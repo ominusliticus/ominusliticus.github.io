@@ -8,6 +8,7 @@ Important aspects to pay attention to when leading a team are:
 - [Setting values](#setting-values)
 - [Facilitating communication](#facilitating-communication)
 - [Developing leadership skills](#developing-leadership-skills)
+- [Problem solving](#problem-solving)
     
 We develop these aspects with activities designed for each skill.
 A key principal to keep in mind while engaging in these activities is to focus on collaboration and communication.
@@ -37,16 +38,21 @@ Some activities to hone our team-based decision making skills are:
 - [Leadership Dilemma](#leadership-dilemma)
 
 
-### Setting values
-
-
 ### Inspiring others
+As leaders, we often serve as role models for others.
+We can reflect 
+
+
+### Setting values
 
 
 ### Facilitating communication
 
 
 ### Developing leadership skills
+
+
+### Problem Solving
 
 
 # Lesson Plan
@@ -73,7 +79,7 @@ This will be based on the [''Hazing Prevention Consortium'' activity](https://st
 The topics involved are pretty heavy, so we will have to think about switching them.
 
 
-# Somethings to incorporate
+# Some things to incorporate
 - Shared leadership structure versus consolidated leadership structures
 - Pitfalls of under-trained leadership
 - Activities to develop leadership skills
