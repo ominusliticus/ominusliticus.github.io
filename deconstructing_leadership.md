@@ -40,17 +40,35 @@ Some activities to hone our team-based decision making skills are:
 
 ### Inspiring others
 As leaders, we often serve as role models for others.
-We can reflect 
+We can reflect on ourselves and ask what sort of role models we present for the people at our local sites.
+
+Some activities to can stimulate this introspection are:
+- [Living Core Values](#living-core-values)
+- [Letter from the Future](#letter-from-the-future)
 
 
 ### Setting values
+As leaders, our personal values tend to influence and be reflected in our organizations.
+Valuing competiton and individual success can breed a competitive environment.
+Valuing shared leadership and equity can lead a highly collaborative and community focues enviornment.
+
+Activites that allow us to share our values, and perhaps help people put into words their own values are:
+- [Your Leadership Coat of Arms](#your-leadership-coat-of-arms)
+- [Team Purpose and Culture]($team-purpose-and-culture)
 
 
 ### Facilitating communication
+The importance of this aspect speaks for itself.
+We should all be cognizant of whether we are being active listners or providing effective feedback.
+Apparently, the number one barrier to successful leadership is the avoidance of tough conversations. 
+- [Trust Battery](#trust-battery)
+- [Start,  Stop, Continue](#start-stop-continue)
 
 
 ### Developing leadership skills
-
+Activities include
+- [Blind Square Rope Game](#blind-square-rope-game)
+- [Minefield](#minefield)
 
 ### Problem Solving
 
@@ -78,6 +96,29 @@ rank what steps need to be taken to complete project/experiment (ideal something
 This will be based on the [''Hazing Prevention Consortium'' activity](https://stophazing.org/wp-content/uploads/2021/06/Values-Based-Leadership-Decision-Making-Workshop-2.pdf).
 The topics involved are pretty heavy, so we will have to think about switching them.
 
+### Living core values
+A full description can be found [here](https://www.sessionlab.com/methods/living-forum-values)
+
+### Letter from the Future
+A full description can be found [here](https://www.sessionlab.com/methods/letter-from-the-future)
+
+### Your Leadership Coat of Arms
+A full description can be found [here](https://www.sessionlab.com/methods/your-leadership-coat-of-arms)
+
+### Team Purpose and Culture
+A full description can be found [here](https://www.sessionlab.com/methods/team-purpose-culture)
+
+### Trust Battery
+A full description can be found [here](https://www.sessionlab.com/methods/trust-battery)
+
+### Start Stop Continue
+A full description can be found [here](https://www.sessionlab.com/methods/feedback-start-stop-continue)
+
+### Blind Square Rope Game
+A full description can be found [here](https://thiagi.net/archive/www/pfp/IE4H/december2008.html#RopeGame)
+
+### Minefield
+A full description can be found [here](https://www.teampedia.net/wiki/Minefield)
 
 # Some things to incorporate
 - Shared leadership structure versus consolidated leadership structures
@@ -89,4 +130,5 @@ The topics involved are pretty heavy, so we will have to think about switching t
 
 1. [Sessions Lab: 35 Effective Leadership Activities and Games](https://www.sessionlab.com/blog/leadership-activities/)
 1. [Practicing Valued-Base Leadership & Decision Making](https://stophazing.org/wp-content/uploads/2021/06/Values-Based-Leadership-Decision-Making-Workshop-2.pdf)
+1. [Clear is Kind. Unclear Is Unkind.](https://brenebrown.com/articles/2018/10/15/clear-is-kind-unclear-is-unkind/)
 
