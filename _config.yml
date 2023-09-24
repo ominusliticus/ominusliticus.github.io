@@ -34,9 +34,10 @@ minima:
 # this and add the path to the pages in order as they should show up
 header_pages:
   - cv.md
-  - research.md 
+  - research.md
   - outreach.md
   - recreational.md
+  - my_notes.md
 
 # Build settings
 theme: minima
