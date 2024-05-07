@@ -13,7 +13,8 @@ title: About Me
 
 <div style="display: grid; grid-template-columns: 2fr 1fr;">
   <div sytle="text-align: just;" markdown="1">
-  # About Me
+  <h2> About Me </h2>
+
   Hi!
   My name is Kevin Ingles, I am a theoretical physicist studying nuclear and particle physics. 
   Currently, I am a NSF MPS-Ascend Postdoctoral Fellow at the University of Illinois Urbana-Champaign,
@@ -38,7 +39,8 @@ title: About Me
   I take outreach and Diversity, Equity, Inclusion and Access (IDEA) work very seriously,
   and will continue advocating for such initiatives wherever I go.
 
-  # My Notes
+  <h2> My Notes </h2>
+
   On the _My Notes_ tab, you will find notes that I have been developing over the years, to help myself,
   my peers and future students along their career.
   For now, they are primarily programming oriented, but will include my physics based things down the line.
