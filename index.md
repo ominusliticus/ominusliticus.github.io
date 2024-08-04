@@ -16,28 +16,18 @@ title: About Me
   <h2> About Me </h2>
 
   Hi!
-  My name is Kevin Ingles, I am a theoretical physicist studying nuclear and particle physics. 
-  Currently, I am a NSF MPS-Ascend Postdoctoral Fellow at the University of Illinois Urbana-Champaign,
+  My name is Kevin Ingles, I am a theoretical and computational physicist studying nuclear, particle physics, and quantum algorithms. 
+  Currently, I am a Senior Computational Research Scientist at Applied Research Associates, Inc. (ARA).
+  Previously, I was a NSF MPS-Ascend Postdoctoral Fellow at the University of Illinois Urbana-Champaign,
   working with Drs. Jaki Noronha-Hostler and Jorge Noronha to develop spin and 
   magnetohydrodynamic simulations of heavy-ion collisions.
-  Such a numeical framework will allow us to make even better inferences about the nature of the quark-gluon
-  plasma (the most dense and hottest state of matte known), and improve our understanding the quantum 
-  chromodynamics, the theory underlying the strong interactions.
-  Aside from advancing our knowledge of fundamental physics, this code will also bring hydrodynamic simulations
-  of relativistic fluids closer to state-of-the-art in terms of non-relativistic fluid simulations and 
-  astrophysical plasma simulations.
-  More generally, I am interested in the gauge theories as a whole.
-  They have very rich phenomonology such as confinement, asymptotic freedom, and vanishing viscosity, and 
-  our existing tools are still insufficient to fully understand all of these.
+  I obtained my Ph.D. from The Ohio State University studying production mechanism for exotic heavy mesons.
 
-  My gaol is to to become a tenured professor at a HBCU, R2 university, or liberal arts college,
-  as my passion is largely in mentoring aspiring scientists.
-  Mentoring and facilitating mentorship programs has been an avid part of my career so far.
-  In graduate school, this has primarily been through the student-led organization 
-  [Polaris](https://physics.osu.edu/student-organizations-0/polaris-0).
-  While during my postdoc, I have focused on roles in [Access](https://accessnetwork.org/) and the UofI program [IPaSS](https://ipass.physics.illinois.edu/).
-  I take outreach and Diversity, Equity, Inclusion and Access (IDEA) work very seriously,
-  and will continue advocating for such initiatives wherever I go.
+  This is my personal website, where I keep track of my experiences and allow others to find me.
+  I also use this website to publish any notes that I write, which might be useful for young researchers and certainly would have helped me
+  when I was still in school.
+
+  __Note: If this message is here, it means the website is out of date. I am working on updating it as soon as possible.__
 
   <h2> My Notes </h2>
 
